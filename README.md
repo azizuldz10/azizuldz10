@@ -7,7 +7,7 @@
 
 <br>
 
-<p align="center">Saya seorang pengembang yang bersemangat tentang [Bidang minat: Web, AI, dll dan selalu belajar hal baru. Saya suka berkontribusi pada proyek open source dan membangun aplikasi yang bermanfaat. </p>
+<p align="center">Saya seorang pengembang yang bersemangat tentang Web, Cyber, Ai yang semangat selalu belajar hal baru. Saya suka berkontribusi pada proyek open source dan membangun aplikasi yang bermanfaat. </p>
 
 <br>
 
